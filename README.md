@@ -4,5 +4,5 @@ Working on a fullstack (MERN) application which will allow user to add stocks in
 Data will be scraped from MoneyControl.
 User can add & modify information related to their stocks investment. 
 
-## Screenshot
+## Demo Screenshot
 ![screenshot](dashboard.png)
