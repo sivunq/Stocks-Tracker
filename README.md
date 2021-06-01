@@ -5,4 +5,4 @@ Data will be scraped from MoneyControl.
 User can add & modify information related to their stocks investment. 
 
 ## Demo Screenshot
-![screenshot](dashboard.png)
+![screenshot](screenshot.png)
