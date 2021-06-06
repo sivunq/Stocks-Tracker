@@ -1,4 +1,4 @@
-# Stocks-Tracker
+# Stocks-Tracker ((work in progress))
 
 Working on a fullstack (MERN) application which will allow user to add stocks information on a dashboard.
 Data will be scraped from MoneyControl.
