@@ -10,7 +10,7 @@ User can add & modify information related to their stocks investment.
 
 ![screenshot2](snip2.PNG)
 
-![screenshot2](snip2.PNG)
+![screenshot2](snip3.PNG)
 
 **People say if you are looking for a project idea, just develop something to solve your own personal problem, and that's exactly what I did.**
 
