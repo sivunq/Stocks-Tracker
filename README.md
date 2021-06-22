@@ -18,7 +18,7 @@ From so long I wanted to develop a stocks tracker/management website for myself.
 
 Now, I'm very excited to share that I have built a MVP version of the stocks tracker/management dashboard.
 
-Link: https://stocks-management.herokuapp.com/home
+Link: https://stocks-management.herokuapp.com/home/
 Tech: MERN stack.
 StocksData: Scraped from Moneycontrol.
 
