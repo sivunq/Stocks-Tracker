@@ -12,8 +12,6 @@ User can add & modify information related to their stocks investment.
 
 ![screenshot2](snip3.PNG)
 
-**People say if you are looking for a project idea, just develop something to solve your own personal problem, and that's exactly what I did.**
-
 From so long I wanted to develop a stocks tracker/management website for myself. Earlier I used to track my stocks investments locally in an excel sheet by scraping data from moneycontrol with help of a small python code I wrote.
 
 Now, I'm very excited to share that I have built a MVP version of the stocks tracker/management dashboard.
@@ -22,7 +20,8 @@ Link: https://stocks-management.herokuapp.com/home/
 Tech: MERN stack.
 StocksData: Scraped from Moneycontrol.
 
-NOTE: Still working on adding many features and current version is for desktop only (not properly responsive yet). Data shown is dummy, not my actual investments.
+NOTE: Still working on adding many features and current version is for desktop only (not properly responsive yet). 
+Data shown is dummy, not my actual investments.
 
 Current Features::
 
